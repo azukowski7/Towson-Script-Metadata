@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+    <play>
+        <titleOfPlay></titleOfPlay>
+        <ExtentOfScript unit=""></ExtentOfScript>
+        <genre></genre>
+    </play>
+    <anthology>
+        <titleOfAnthology volume=""></titleOfAnthology>
+    </anthology>
+    <playwright>
+        <authorityNumber source=""></authorityNumber>
+        <displayName></displayName>
+        <lastName></lastName>
+        <firstName></firstName>
+        <middleName></middleName>
+        <alternativeName></alternativeName>
+    </playwright>
+    <castingInformation>
+        <totalNumberOfCharacters>
+            <number></number>
+            <exactAge></exactAge>
+            <ageDescriptor number=""></ageDescriptor>
+        </totalNumberOfCharacters>
+        <numberOfCharacters sex="">
+            <number></number>
+            <exactAge></exactAge>
+            <ageDescriptor number=""></ageDescriptor>
+        </numberOfCharacters>
+    </castingInformation>
+    <settingInformation>
+        <temporalSetting unit="">
+            <time type=""></time>
+        </temporalSetting>
+        <locationSetting unit="">
+            <location type=""></location>
+            <authorityNumber source=""></authorityNumber>
+        </locationSetting>
+    </settingInformation>
+    <publicationInformation>
+        <publisherName></publisherName>
+        <date type=""></date>
+        <translation truth="">
+            <originalLangauge code=""></originalLangauge>
+            <translatedLanguage code=""></translatedLanguage>
+        </translation>
+        <libraryCallNumber classification=""></libraryCallNumber>
+        <catalogrecord></catalogrecord>
+    </publicationInformation>
+    <originalProduction>
+        <originalProductionDate></originalProductionDate>
+        <originalProductionTheatre>
+            <authorityNumber source=""></authorityNumber>
+            <theatre></theatre>
+        </originalProductionTheatre>
+        <originalProductionCity>
+            <authorityNumber source=""></authorityNumber>
+            <city></city>
+        </originalProductionCity>
+        <originalProductionCountry>
+            <authorityNumber source=""></authorityNumber>
+            <country></country>
+        </originalProductionCountry>
+    </originalProduction>
+    <recordId></recordId>
+</script>
