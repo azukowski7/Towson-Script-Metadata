@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+    <play>
+        <titleOfPlay>The Tragedy of King Lear</titleOfPlay>
+        <ExtentOfScript unit="acts">5</ExtentOfScript>
+        <genre>tragedy</genre>
+    </play>
+    <anthology>
+        <titleOfAnthology volume="">The Riverside Shakespeare</titleOfAnthology>
+    </anthology>
+    <playwright>
+        <authorityNumber source="lcnaf">n 78095332</authorityNumber>
+        <displayName>William Shakespeare</displayName>
+        <lastName>Shakespeare</lastName>
+        <firstName>William</firstName>
+    </playwright>
+    <castingInformation>
+        <totalNumberOfCharacters>
+            <number>20</number>
+        </totalNumberOfCharacters>
+        <numberOfCharacters sex="male">
+            <number>17</number>
+        </numberOfCharacters>
+        <numberOfCharacters sex="female">
+            <number>3</number>
+        </numberOfCharacters>
+    </castingInformation>
+    <settingInformation>
+        <temporalSetting>
+            <time type="">unspecified</time>
+        </temporalSetting>
+        <locationSetting>
+            <location type="nation">Britain</location>
+            <authorityNumber source="lcnaf">n 79023147</authorityNumber>
+        </locationSetting>
+    </settingInformation>
+    <publicationInformation>
+        <publisherName>Houghton Mifflin</publisherName>
+        <date type="copyright">1974</date>
+        <translation truth="no"></translation>
+        <libraryCallNumber classification="LC">PR2754.E9</libraryCallNumber>
+        <catalogrecord>http://catalog.umd.edu/F/LACMDBKFJESS771E48QC7PDFYFGAPBG7Y6MR2QEDNUL786BSSP-29817?func=direct&amp;doc_number=000305105</catalogrecord>
+    </publicationInformation>
+    <originalProduction>
+        <originalProductionDate>1604</originalProductionDate>
+        <originalProductionDate>1605</originalProductionDate>
+        <originalProductionCity>
+            <authorityNumber source="lcnaf">n 79005665</authorityNumber>
+            <city>London (England)</city>
+        </originalProductionCity>
+        <originalProductionCountry>
+            <authorityNumber source="lcnaf">n 82068148</authorityNumber>
+            <country>England</country>
+        </originalProductionCountry>
+    </originalProduction>
+    <recordId>scripttest03</recordId>
+</script>
