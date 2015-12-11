@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+    <play>
+        <titleOfPlay>Last of the Red Hot Lovers</titleOfPlay>
+        <ExtentOfScript unit="acts">3</ExtentOfScript>
+        <genre>comedy</genre>
+    </play>
+    <playwright>
+        <authorityNumber source="lcnaf">n 79065574</authorityNumber>
+        <displayName>Neil Simon</displayName>
+        <lastName>Simon</lastName>
+        <firstName>Neil</firstName>
+    </playwright>
+    <castingInformation>
+        <totalNumberOfCharacters>
+            <number>4</number>
+            <exactAge>27</exactAge>
+            <exactAge>39</exactAge>
+            <exactAge>47</exactAge>
+            <ageDescriptor>late thirties</ageDescriptor>
+        </totalNumberOfCharacters>
+        <numberOfCharacters sex="male">
+            <number>1</number>
+            <exactAge>47</exactAge>
+            <ageDescriptor number="1">late forties</ageDescriptor>
+        </numberOfCharacters>
+        <numberOfCharacters sex="female">
+            <number>3</number>
+            <exactAge>27</exactAge>
+            <exactAge>39</exactAge>
+            <ageDescriptor number="1">late twenties</ageDescriptor>
+            <ageDescriptor number="2">late thirties</ageDescriptor>
+        </numberOfCharacters>
+    </castingInformation>
+    <settingInformation>
+        <temporalSetting unit="Act 1">
+            <time type="month">December</time>
+            <time type="dayperiod">late afternoon</time>
+        </temporalSetting>
+        <temporalSetting unit="Act 2">
+            <time type="month">August</time>
+            <time type="dayperiod">late afternoon</time>
+        </temporalSetting>
+        <temporalSetting unit="Act 3">
+            <time type="month">September</time>
+            <time type="dayperiod">late afternoon</time>
+        </temporalSetting>
+        <locationSetting>
+            <location type="city">New York (N.Y.)</location>
+            <authorityNumber source="lcnaf">n 79007751</authorityNumber>
+            <location type="neighborhood">East Thirties</location>
+        </locationSetting>
+    </settingInformation>
+    <publicationInformation>
+        <publisherName>Samuel French</publisherName>
+        <date type="copyright">1970</date>
+        <translation truth="no"></translation>
+        <libraryCallNumber classification="LC">PS3537.I663 L3 1998</libraryCallNumber>
+<catalogrecord>http://catalog.umd.edu/F/REIANPPG3V1S6TT3C7R3IJ6K5R3S26XK9XSEI4J75ENJQ6MV1X-09855?func=find-acc&amp;acc_sequence=022909411</catalogrecord>
+    </publicationInformation>
+    <originalProduction>
+        <originalProductionDate>1969-12-28</originalProductionDate>
+        <originalProductionTheatre>Eugene O'Neill Theatre</originalProductionTheatre>
+        <originalProductionCity>
+            <authorityNumber source="lcnaf">n 79007751</authorityNumber>
+            <city>New York (N.Y.)</city>
+        </originalProductionCity>
+        <originalProductionCountry>
+            <authorityNumber source="lcnaf">n 78095330</authorityNumber>
+            <country>United States</country>
+        </originalProductionCountry>
+    </originalProduction>
+    <recordId>scripttest02</recordId>
+</script>
